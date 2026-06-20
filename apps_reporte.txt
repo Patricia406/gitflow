@@ -1,0 +1,6 @@
+===== REPORTE DE APLICACIONES =====
+Fecha: Sat Jun 20 04:15:32 UTC 2026
+app1 - 1 archivos
+app2 - 2 archivos
+app3 - 3 archivos
+app4 - 4 archivos
